@@ -1,0 +1,8 @@
+discord.py>=2.3.0
+python-dotenv>=1.0.0
+aiohttp>=3.8.0
+pytz>=2023.3
+yt-dlp>=2023.0.0
+psutil>=5.9.0
+discord-webhook>=1.3.0
+google-generativeai>=0.3.0
